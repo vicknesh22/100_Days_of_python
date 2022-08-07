@@ -28,7 +28,7 @@ class SnakeBluePrint:
     def extend(self):
         self.add_segment(self.snake_box[-1].position())
 
-    def move(self, ):
+    def move(self):
         for snake_num in range(len(self.snake_box) - 1, 0, -1):
             new_x = self.snake_box[snake_num - 1].xcor()
             new_y = self.snake_box[snake_num - 1].ycor()
