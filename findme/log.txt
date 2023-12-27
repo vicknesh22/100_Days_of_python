@@ -1,0 +1,725 @@
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702621999.070; last cache update = 1702621999.070;
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702621999.072; last cache update = 1702621999.075;
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702621999.258; last cache update = 1702621999.259;
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702621999.267; last cache update = 1702621999.267;
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702621999.267; last cache update = 1702621999.269;
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702621999.272; last cache update = 1702621999.272;
+Dec 15 12:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702621999.278; last cache update = 1702621999.279;
+Dec 15 12:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622059.072; last cache update = 1702622059.074;
+Dec 15 12:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622059.281; last cache update = 1702622059.282;
+Dec 15 12:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622059.282; last cache update = 1702622059.282;
+Dec 15 12:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622059.286; last cache update = 1702622059.287;
+Dec 15 12:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622119.258; last cache update = 1702622119.259;
+Dec 15 12:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622119.259; last cache update = 1702622119.259;
+Dec 15 12:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622119.260; last cache update = 1702622119.260;
+Dec 15 12:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622119.266; last cache update = 1702622119.267;
+Dec 15 12:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622119.268; last cache update = 1702622119.268;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622179.068; last cache update = 1702622179.068;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622179.069; last cache update = 1702622179.069;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622179.070; last cache update = 1702622179.071;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622179.073; last cache update = 1702622179.073;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622179.073; last cache update = 1702622179.073;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622179.267; last cache update = 1702622179.271;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622179.274; last cache update = 1702622179.274;
+Dec 15 12:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622179.276; last cache update = 1702622179.277;
+Dec 15 12:06:31 jumphost systemd[1]: Created slice User Slice of raj_kumar_nobroker_in.
+Dec 15 12:06:31 jumphost systemd[1]: Starting User Manager for UID 1464454389...
+Dec 15 12:06:31 jumphost systemd[1]: Started Session 11658 of user raj_kumar_nobroker_in.
+Dec 15 12:06:31 jumphost systemd[11256]: Reached target Paths.
+Dec 15 12:06:31 jumphost systemd[11256]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:06:31 jumphost systemd[11256]: Reached target Timers.
+Dec 15 12:06:31 jumphost systemd[11256]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:06:31 jumphost systemd[11256]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:06:31 jumphost systemd[11256]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:06:31 jumphost systemd[11256]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:06:31 jumphost systemd[11256]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:06:31 jumphost systemd[11256]: Reached target Sockets.
+Dec 15 12:06:31 jumphost systemd[11256]: Reached target Basic System.
+Dec 15 12:06:31 jumphost systemd[11256]: Reached target Default.
+Dec 15 12:06:31 jumphost systemd[11256]: Startup finished in 41ms.
+Dec 15 12:06:31 jumphost systemd[1]: Started User Manager for UID 1464454389.
+Dec 15 12:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622239.070; last cache update = 1702622239.070;
+Dec 15 12:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622239.070; last cache update = 1702622239.071;
+Dec 15 12:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622239.071; last cache update = 1702622239.071;
+Dec 15 12:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622239.073; last cache update = 1702622239.073;
+Dec 15 12:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622239.166; last cache update = 1702622239.166;
+Dec 15 12:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622239.167; last cache update = 1702622239.171;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622299.190; last cache update = 1702622299.191;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622299.274; last cache update = 1702622299.274;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622299.274; last cache update = 1702622299.274;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622299.287; last cache update = 1702622299.288;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622299.290; last cache update = 1702622299.290;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622299.291; last cache update = 1702622299.293;
+Dec 15 12:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622299.294; last cache update = 1702622299.294;
+Dec 15 12:09:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622359.071; last cache update = 1702622359.071;
+Dec 15 12:09:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622359.260; last cache update = 1702622359.260;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622419.064; last cache update = 1702622419.065;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622419.069; last cache update = 1702622419.069;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622419.069; last cache update = 1702622419.070;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622419.070; last cache update = 1702622419.070;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622419.071; last cache update = 1702622419.071;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622419.305; last cache update = 1702622419.305;
+Dec 15 12:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622419.307; last cache update = 1702622419.309;
+Dec 15 12:11:01 jumphost systemd[1]: Created slice User Slice of hari_prasad1_nobroker_in.
+Dec 15 12:11:01 jumphost systemd[1]: Starting User Manager for UID 1450223141...
+Dec 15 12:11:01 jumphost systemd[1]: Started Session 11660 of user hari_prasad1_nobroker_in.
+Dec 15 12:11:01 jumphost systemd[11598]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:11:01 jumphost systemd[11598]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:11:01 jumphost systemd[11598]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:11:01 jumphost systemd[11598]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:11:01 jumphost systemd[11598]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:11:01 jumphost systemd[11598]: Reached target Paths.
+Dec 15 12:11:01 jumphost systemd[11598]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:11:01 jumphost systemd[11598]: Reached target Sockets.
+Dec 15 12:11:01 jumphost systemd[11598]: Reached target Timers.
+Dec 15 12:11:01 jumphost systemd[11598]: Reached target Basic System.
+Dec 15 12:11:01 jumphost systemd[11598]: Reached target Default.
+Dec 15 12:11:01 jumphost systemd[11598]: Startup finished in 43ms.
+Dec 15 12:11:01 jumphost systemd[1]: Started User Manager for UID 1450223141.
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622479.070; last cache update = 1702622479.071;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622479.071; last cache update = 1702622479.071;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622479.071; last cache update = 1702622479.071;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622479.167; last cache update = 1702622479.168;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622479.169; last cache update = 1702622479.169;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622479.256; last cache update = 1702622479.256;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622479.256; last cache update = 1702622479.257;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622479.262; last cache update = 1702622479.263;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622479.263; last cache update = 1702622479.264;
+Dec 15 12:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622479.268; last cache update = 1702622479.268;
+Dec 15 12:11:36 jumphost systemd[1]: Stopping User Manager for UID 1450223141...
+Dec 15 12:11:36 jumphost systemd[11598]: Stopped target Default.
+Dec 15 12:11:36 jumphost systemd[11598]: Stopped target Basic System.
+Dec 15 12:11:36 jumphost systemd[11598]: Stopped target Sockets.
+Dec 15 12:11:36 jumphost systemd[11598]: Closed REST API socket for snapd user session agent.
+Dec 15 12:11:36 jumphost systemd[11598]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:11:36 jumphost systemd[11598]: Closed GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:11:36 jumphost systemd[11598]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:11:36 jumphost systemd[11598]: Closed GnuPG network certificate management daemon.
+Dec 15 12:11:36 jumphost systemd[11598]: Stopped target Paths.
+Dec 15 12:11:36 jumphost systemd[11598]: Stopped target Timers.
+Dec 15 12:11:36 jumphost systemd[11598]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:11:36 jumphost systemd[11598]: Reached target Shutdown.
+Dec 15 12:11:36 jumphost systemd[11598]: Starting Exit the Session...
+Dec 15 12:11:36 jumphost systemd[11598]: Received SIGRTMIN+24 from PID 11755 (kill).
+Dec 15 12:11:36 jumphost systemd[1]: Stopped User Manager for UID 1450223141.
+Dec 15 12:11:36 jumphost systemd[1]: Removed slice User Slice of hari_prasad1_nobroker_in.
+Dec 15 12:11:59 jumphost systemd[1]: Created slice User Slice of hari_prasad1_nobroker_in.
+Dec 15 12:11:59 jumphost systemd[1]: Starting User Manager for UID 1450223141...
+Dec 15 12:11:59 jumphost systemd[1]: Started Session 11662 of user hari_prasad1_nobroker_in.
+Dec 15 12:11:59 jumphost systemd[11826]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:11:59 jumphost systemd[11826]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:11:59 jumphost systemd[11826]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:11:59 jumphost systemd[11826]: Reached target Timers.
+Dec 15 12:11:59 jumphost systemd[11826]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:11:59 jumphost systemd[11826]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:11:59 jumphost systemd[11826]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:11:59 jumphost systemd[11826]: Reached target Sockets.
+Dec 15 12:11:59 jumphost systemd[11826]: Reached target Paths.
+Dec 15 12:11:59 jumphost systemd[11826]: Reached target Basic System.
+Dec 15 12:11:59 jumphost systemd[1]: Started User Manager for UID 1450223141.
+Dec 15 12:11:59 jumphost systemd[11826]: Reached target Default.
+Dec 15 12:11:59 jumphost systemd[11826]: Startup finished in 47ms.
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622539.077; last cache update = 1702622539.077;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622539.276; last cache update = 1702622539.276;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622539.282; last cache update = 1702622539.282;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622539.284; last cache update = 1702622539.284;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622539.284; last cache update = 1702622539.285;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622539.285; last cache update = 1702622539.285;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622539.293; last cache update = 1702622539.294;
+Dec 15 12:12:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622539.295; last cache update = 1702622539.295;
+Dec 15 12:13:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622599.069; last cache update = 1702622599.069;
+Dec 15 12:13:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622599.162; last cache update = 1702622599.162;
+Dec 15 12:13:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622599.248; last cache update = 1702622599.249;
+Dec 15 12:14:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622659.280; last cache update = 1702622659.280;
+Dec 15 12:14:56 jumphost systemd[1]: Created slice User Slice of sumit_kumar12_nobroker_in.
+Dec 15 12:14:56 jumphost systemd[1]: Starting User Manager for UID 1276865308...
+Dec 15 12:14:56 jumphost systemd[1]: Started Session 11664 of user sumit_kumar12_nobroker_in.
+Dec 15 12:14:56 jumphost systemd[12088]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:14:56 jumphost systemd[12088]: Reached target Paths.
+Dec 15 12:14:56 jumphost systemd[12088]: Reached target Timers.
+Dec 15 12:14:56 jumphost systemd[12088]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:14:56 jumphost systemd[12088]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:14:56 jumphost systemd[12088]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:14:56 jumphost systemd[12088]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:14:56 jumphost systemd[12088]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:14:56 jumphost systemd[12088]: Reached target Sockets.
+Dec 15 12:14:56 jumphost systemd[12088]: Reached target Basic System.
+Dec 15 12:14:56 jumphost systemd[12088]: Reached target Default.
+Dec 15 12:14:56 jumphost systemd[12088]: Startup finished in 43ms.
+Dec 15 12:14:56 jumphost systemd[1]: Started User Manager for UID 1276865308.
+Dec 15 12:15:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622719.069; last cache update = 1702622719.069;
+Dec 15 12:15:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622719.070; last cache update = 1702622719.071;
+Dec 15 12:15:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622719.252; last cache update = 1702622719.253;
+Dec 15 12:15:43 jumphost systemd[1]: Started Session 11666 of user hitesh_luhar_nobroker_in.
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622779.073; last cache update = 1702622779.073;
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622779.077; last cache update = 1702622779.077;
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622779.179; last cache update = 1702622779.184;
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622779.269; last cache update = 1702622779.269;
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622779.270; last cache update = 1702622779.270;
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622779.271; last cache update = 1702622779.271;
+Dec 15 12:16:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622779.276; last cache update = 1702622779.289;
+Dec 15 12:17:01 jumphost CRON[12515]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 15 12:17:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622839.069; last cache update = 1702622839.069;
+Dec 15 12:17:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622839.268; last cache update = 1702622839.268;
+Dec 15 12:17:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622839.270; last cache update = 1702622839.270;
+Dec 15 12:17:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622839.281; last cache update = 1702622839.282;
+Dec 15 12:17:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622839.279; last cache update = 1702622839.281;
+Dec 15 12:17:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622839.282; last cache update = 1702622839.282;
+Dec 15 12:17:50 jumphost systemd[1]: Created slice User Slice of santhosh_s_nobroker_in.
+Dec 15 12:17:50 jumphost systemd[1]: Starting User Manager for UID 1842687865...
+Dec 15 12:17:50 jumphost systemd[1]: Started Session 11668 of user santhosh_s_nobroker_in.
+Dec 15 12:17:50 jumphost systemd[12550]: Reached target Paths.
+Dec 15 12:17:50 jumphost systemd[12550]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:17:50 jumphost systemd[12550]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:17:50 jumphost systemd[12550]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:17:50 jumphost systemd[12550]: Reached target Timers.
+Dec 15 12:17:50 jumphost systemd[12550]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:17:50 jumphost systemd[12550]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:17:50 jumphost systemd[12550]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:17:50 jumphost systemd[12550]: Reached target Sockets.
+Dec 15 12:17:50 jumphost systemd[12550]: Reached target Basic System.
+Dec 15 12:17:50 jumphost systemd[12550]: Reached target Default.
+Dec 15 12:17:50 jumphost systemd[12550]: Startup finished in 51ms.
+Dec 15 12:17:50 jumphost systemd[1]: Started User Manager for UID 1842687865.
+Dec 15 12:18:12 jumphost systemd[1]: Stopping User Manager for UID 1450223141...
+Dec 15 12:18:12 jumphost systemd[11826]: Stopped target Default.
+Dec 15 12:18:12 jumphost systemd[11826]: Stopped target Basic System.
+Dec 15 12:18:12 jumphost systemd[11826]: Stopped target Timers.
+Dec 15 12:18:12 jumphost systemd[11826]: Stopped target Sockets.
+Dec 15 12:18:12 jumphost systemd[11826]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:18:12 jumphost systemd[11826]: Closed GnuPG network certificate management daemon.
+Dec 15 12:18:12 jumphost systemd[11826]: Closed GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:18:12 jumphost systemd[11826]: Closed REST API socket for snapd user session agent.
+Dec 15 12:18:12 jumphost systemd[11826]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:18:12 jumphost systemd[11826]: Stopped target Paths.
+Dec 15 12:18:12 jumphost systemd[11826]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:18:12 jumphost systemd[11826]: Reached target Shutdown.
+Dec 15 12:18:12 jumphost systemd[11826]: Starting Exit the Session...
+Dec 15 12:18:12 jumphost systemd[11826]: Received SIGRTMIN+24 from PID 12716 (kill).
+Dec 15 12:18:12 jumphost systemd[1]: Stopped User Manager for UID 1450223141.
+Dec 15 12:18:12 jumphost systemd[1]: Removed slice User Slice of hari_prasad1_nobroker_in.
+Dec 15 12:18:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622899.068; last cache update = 1702622899.068;
+Dec 15 12:18:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622899.266; last cache update = 1702622899.266;
+Dec 15 12:18:49 jumphost systemd[1]: Created slice User Slice of hari_prasad1_nobroker_in.
+Dec 15 12:18:49 jumphost systemd[1]: Starting User Manager for UID 1450223141...
+Dec 15 12:18:49 jumphost systemd[1]: Started Session 11670 of user hari_prasad1_nobroker_in.
+Dec 15 12:18:49 jumphost systemd[12783]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:18:49 jumphost systemd[12783]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:18:49 jumphost systemd[12783]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:18:49 jumphost systemd[12783]: Reached target Timers.
+Dec 15 12:18:49 jumphost systemd[12783]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:18:49 jumphost systemd[12783]: Reached target Paths.
+Dec 15 12:18:49 jumphost systemd[12783]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:18:49 jumphost systemd[12783]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:18:49 jumphost systemd[12783]: Reached target Sockets.
+Dec 15 12:18:49 jumphost systemd[12783]: Reached target Basic System.
+Dec 15 12:18:49 jumphost systemd[1]: Started User Manager for UID 1450223141.
+Dec 15 12:18:49 jumphost systemd[12783]: Reached target Default.
+Dec 15 12:18:49 jumphost systemd[12783]: Startup finished in 54ms.
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622959.254; last cache update = 1702622959.254;
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622959.256; last cache update = 1702622959.256;
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702622959.264; last cache update = 1702622959.264;
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702622959.264; last cache update = 1702622959.265;
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702622959.267; last cache update = 1702622959.267;
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702622959.288; last cache update = 1702622959.288;
+Dec 15 12:19:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702622959.294; last cache update = 1702622959.294;
+Dec 15 12:19:44 jumphost systemd[1]: Created slice User Slice of saurabh_udai_nobroker_in.
+Dec 15 12:19:44 jumphost systemd[1]: Starting User Manager for UID 601894193...
+Dec 15 12:19:44 jumphost systemd[1]: Started Session 11672 of user saurabh_udai_nobroker_in.
+Dec 15 12:19:44 jumphost systemd[12980]: Reached target Timers.
+Dec 15 12:19:44 jumphost systemd[12980]: Reached target Paths.
+Dec 15 12:19:44 jumphost systemd[12980]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:19:44 jumphost systemd[12980]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:19:44 jumphost systemd[12980]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:19:44 jumphost systemd[12980]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:19:44 jumphost systemd[12980]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:19:45 jumphost systemd[12980]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:19:45 jumphost systemd[12980]: Reached target Sockets.
+Dec 15 12:19:45 jumphost systemd[12980]: Reached target Basic System.
+Dec 15 12:19:45 jumphost systemd[12980]: Reached target Default.
+Dec 15 12:19:45 jumphost systemd[12980]: Startup finished in 57ms.
+Dec 15 12:19:45 jumphost systemd[1]: Started User Manager for UID 601894193.
+Dec 15 12:20:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623019.071; last cache update = 1702623019.072;
+Dec 15 12:20:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623019.073; last cache update = 1702623019.073;
+Dec 15 12:20:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623019.280; last cache update = 1702623019.280;
+Dec 15 12:20:49 jumphost systemd[1]: Started Session 11674 of user hari_prasad1_nobroker_in.
+Dec 15 12:21:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623079.070; last cache update = 1702623079.070;
+Dec 15 12:21:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623079.274; last cache update = 1702623079.274;
+Dec 15 12:21:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623079.291; last cache update = 1702623079.291;
+Dec 15 12:22:13 jumphost systemd[1]: Started Session 11675 of user chandan_thakur_nobroker_in.
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623139.068; last cache update = 1702623139.068;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623139.068; last cache update = 1702623139.068;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623139.288; last cache update = 1702623139.289;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623139.290; last cache update = 1702623139.290;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623139.291; last cache update = 1702623139.291;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623139.293; last cache update = 1702623139.293;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623139.295; last cache update = 1702623139.295;
+Dec 15 12:22:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623139.303; last cache update = 1702623139.303;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623199.073; last cache update = 1702623199.073;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623199.075; last cache update = 1702623199.075;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623199.256; last cache update = 1702623199.256;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623199.258; last cache update = 1702623199.258;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623199.258; last cache update = 1702623199.258;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623199.261; last cache update = 1702623199.261;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623199.265; last cache update = 1702623199.265;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623199.265; last cache update = 1702623199.266;
+Dec 15 12:23:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623199.265; last cache update = 1702623199.266;
+Dec 15 12:23:28 jumphost systemd[1]: Started Session 11676 of user chandan_thakur_nobroker_in.
+Dec 15 12:24:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623259.069; last cache update = 1702623259.069;
+Dec 15 12:24:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623259.183; last cache update = 1702623259.184;
+Dec 15 12:24:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623259.269; last cache update = 1702623259.269;
+Dec 15 12:24:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623259.276; last cache update = 1702623259.277;
+Dec 15 12:24:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623259.296; last cache update = 1702623259.296;
+Dec 15 12:24:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623259.296; last cache update = 1702623259.297;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623319.270; last cache update = 1702623319.270;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623319.272; last cache update = 1702623319.272;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623319.273; last cache update = 1702623319.273;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623319.274; last cache update = 1702623319.274;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623319.274; last cache update = 1702623319.275;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623319.280; last cache update = 1702623319.280;
+Dec 15 12:25:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623319.287; last cache update = 1702623319.287;
+Dec 15 12:26:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623379.070; last cache update = 1702623379.070;
+Dec 15 12:26:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623379.070; last cache update = 1702623379.070;
+Dec 15 12:26:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623379.073; last cache update = 1702623379.073;
+Dec 15 12:26:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623379.279; last cache update = 1702623379.285;
+Dec 15 12:26:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623379.292; last cache update = 1702623379.292;
+Dec 15 12:26:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623379.303; last cache update = 1702623379.303;
+Dec 15 12:27:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623439.070; last cache update = 1702623439.070;
+Dec 15 12:27:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623439.071; last cache update = 1702623439.072;
+Dec 15 12:27:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623439.071; last cache update = 1702623439.072;
+Dec 15 12:27:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623439.072; last cache update = 1702623439.073;
+Dec 15 12:27:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623439.073; last cache update = 1702623439.073;
+Dec 15 12:27:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623439.073; last cache update = 1702623439.074;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623499.068; last cache update = 1702623499.069;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623499.072; last cache update = 1702623499.072;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623499.078; last cache update = 1702623499.078;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623499.190; last cache update = 1702623499.190;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623499.283; last cache update = 1702623499.283;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623499.285; last cache update = 1702623499.285;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623499.292; last cache update = 1702623499.292;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623499.293; last cache update = 1702623499.293;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623499.294; last cache update = 1702623499.294;
+Dec 15 12:28:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623499.297; last cache update = 1702623499.297;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623559.065; last cache update = 1702623559.065;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623559.068; last cache update = 1702623559.068;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623559.068; last cache update = 1702623559.068;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623559.069; last cache update = 1702623559.069;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623559.071; last cache update = 1702623559.071;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623559.243; last cache update = 1702623559.243;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623559.250; last cache update = 1702623559.250;
+Dec 15 12:29:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623559.278; last cache update = 1702623559.278;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623619.069; last cache update = 1702623619.069;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623619.069; last cache update = 1702623619.070;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623619.269; last cache update = 1702623619.270;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623619.272; last cache update = 1702623619.272;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623619.281; last cache update = 1702623619.281;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623619.283; last cache update = 1702623619.284;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623619.289; last cache update = 1702623619.290;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623619.289; last cache update = 1702623619.290;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623619.302; last cache update = 1702623619.302;
+Dec 15 12:30:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623619.302; last cache update = 1702623619.302;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623679.067; last cache update = 1702623679.067;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623679.070; last cache update = 1702623679.071;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623679.071; last cache update = 1702623679.072;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623679.253; last cache update = 1702623679.253;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623679.253; last cache update = 1702623679.253;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623679.262; last cache update = 1702623679.262;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623679.264; last cache update = 1702623679.264;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623679.269; last cache update = 1702623679.269;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623679.274; last cache update = 1702623679.275;
+Dec 15 12:31:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623679.279; last cache update = 1702623679.279;
+Dec 15 12:32:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623739.071; last cache update = 1702623739.071;
+Dec 15 12:32:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623739.071; last cache update = 1702623739.071;
+Dec 15 12:32:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623739.280; last cache update = 1702623739.281;
+Dec 15 12:32:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623739.280; last cache update = 1702623739.281;
+Dec 15 12:32:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623739.290; last cache update = 1702623739.290;
+Dec 15 12:32:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623739.298; last cache update = 1702623739.299;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623799.068; last cache update = 1702623799.068;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623799.068; last cache update = 1702623799.069;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623799.070; last cache update = 1702623799.072;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623799.070; last cache update = 1702623799.072;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623799.161; last cache update = 1702623799.166;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623799.166; last cache update = 1702623799.167;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623799.257; last cache update = 1702623799.257;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623799.261; last cache update = 1702623799.261;
+Dec 15 12:33:19 jumphost collectd[1754]: write_gcm: Asking metadata server for auth token
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623799.292; last cache update = 1702623799.292;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623799.292; last cache update = 1702623799.292;
+Dec 15 12:33:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623799.292; last cache update = 1702623799.292;
+Dec 15 12:34:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623859.074; last cache update = 1702623859.074;
+Dec 15 12:34:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623859.075; last cache update = 1702623859.075;
+Dec 15 12:34:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623859.179; last cache update = 1702623859.179;
+Dec 15 12:34:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623859.180; last cache update = 1702623859.181;
+Dec 15 12:34:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623859.298; last cache update = 1702623859.298;
+Dec 15 12:34:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623859.298; last cache update = 1702623859.298;
+Dec 15 12:34:58 jumphost systemd[1]: Started Session 11677 of user chandan_thakur_nobroker_in.
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623919.076; last cache update = 1702623919.076;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623919.256; last cache update = 1702623919.257;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623919.256; last cache update = 1702623919.257;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623919.257; last cache update = 1702623919.258;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623919.256; last cache update = 1702623919.258;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702623919.264; last cache update = 1702623919.266;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623919.263; last cache update = 1702623919.266;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623919.269; last cache update = 1702623919.270;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623919.270; last cache update = 1702623919.270;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623919.271; last cache update = 1702623919.271;
+Dec 15 12:35:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623919.275; last cache update = 1702623919.276;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623979.073; last cache update = 1702623979.073;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623979.076; last cache update = 1702623979.076;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702623979.298; last cache update = 1702623979.299;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702623979.298; last cache update = 1702623979.299;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623979.298; last cache update = 1702623979.299;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702623979.300; last cache update = 1702623979.300;
+Dec 15 12:36:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702623979.305; last cache update = 1702623979.305;
+Dec 15 12:37:03 jumphost systemd[1]: Started Session 11678 of user hari_prasad1_nobroker_in.
+Dec 15 12:37:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624039.070; last cache update = 1702624039.070;
+Dec 15 12:37:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624039.071; last cache update = 1702624039.072;
+Dec 15 12:37:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624039.261; last cache update = 1702624039.261;
+Dec 15 12:37:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624039.265; last cache update = 1702624039.265;
+Dec 15 12:37:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624039.264; last cache update = 1702624039.268;
+Dec 15 12:37:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624039.286; last cache update = 1702624039.286;
+Dec 15 12:37:23 jumphost systemd[1]: Started Session 11679 of user santhosh_s_nobroker_in.
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624099.283; last cache update = 1702624099.283;
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624099.287; last cache update = 1702624099.287;
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624099.289; last cache update = 1702624099.290;
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624099.291; last cache update = 1702624099.292;
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624099.293; last cache update = 1702624099.293;
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624099.295; last cache update = 1702624099.296;
+Dec 15 12:38:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624099.296; last cache update = 1702624099.298;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624159.249; last cache update = 1702624159.249;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624159.258; last cache update = 1702624159.258;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624159.260; last cache update = 1702624159.261;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624159.263; last cache update = 1702624159.264;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624159.265; last cache update = 1702624159.265;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624159.269; last cache update = 1702624159.269;
+Dec 15 12:39:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624159.278; last cache update = 1702624159.278;
+Dec 15 12:40:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624219.069; last cache update = 1702624219.069;
+Dec 15 12:40:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624219.069; last cache update = 1702624219.071;
+Dec 15 12:40:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624219.287; last cache update = 1702624219.288;
+Dec 15 12:40:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624219.295; last cache update = 1702624219.298;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624279.070; last cache update = 1702624279.071;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624279.072; last cache update = 1702624279.072;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624279.076; last cache update = 1702624279.076;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624279.077; last cache update = 1702624279.078;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624279.257; last cache update = 1702624279.258;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624279.258; last cache update = 1702624279.259;
+Dec 15 12:41:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624279.271; last cache update = 1702624279.274;
+Dec 15 12:42:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624339.076; last cache update = 1702624339.076;
+Dec 15 12:42:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624339.183; last cache update = 1702624339.199;
+Dec 15 12:42:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624339.304; last cache update = 1702624339.305;
+Dec 15 12:42:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624339.304; last cache update = 1702624339.305;
+Dec 15 12:42:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624339.315; last cache update = 1702624339.315;
+Dec 15 12:42:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624339.315; last cache update = 1702624339.315;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624399.067; last cache update = 1702624399.067;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624399.068; last cache update = 1702624399.068;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624399.068; last cache update = 1702624399.068;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624399.068; last cache update = 1702624399.069;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624399.167; last cache update = 1702624399.168;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624399.251; last cache update = 1702624399.252;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624399.253; last cache update = 1702624399.254;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624399.254; last cache update = 1702624399.254;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624399.254; last cache update = 1702624399.255;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624399.257; last cache update = 1702624399.258;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624399.258; last cache update = 1702624399.259;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624399.263; last cache update = 1702624399.263;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624399.263; last cache update = 1702624399.263;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624399.276; last cache update = 1702624399.277;
+Dec 15 12:43:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624399.278; last cache update = 1702624399.279;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624459.071; last cache update = 1702624459.071;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624459.071; last cache update = 1702624459.071;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624459.074; last cache update = 1702624459.074;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624459.075; last cache update = 1702624459.075;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624459.183; last cache update = 1702624459.183;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624459.264; last cache update = 1702624459.265;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624459.267; last cache update = 1702624459.267;
+Dec 15 12:44:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624459.273; last cache update = 1702624459.273;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624519.070; last cache update = 1702624519.070;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624519.075; last cache update = 1702624519.076;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624519.258; last cache update = 1702624519.261;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624519.261; last cache update = 1702624519.261;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624519.261; last cache update = 1702624519.262;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624519.263; last cache update = 1702624519.263;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624519.264; last cache update = 1702624519.268;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624519.268; last cache update = 1702624519.271;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624519.273; last cache update = 1702624519.274;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624519.290; last cache update = 1702624519.290;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624519.291; last cache update = 1702624519.292;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624519.291; last cache update = 1702624519.292;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624519.292; last cache update = 1702624519.292;
+Dec 15 12:45:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624519.293; last cache update = 1702624519.293;
+Dec 15 12:46:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624579.068; last cache update = 1702624579.069;
+Dec 15 12:46:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624579.073; last cache update = 1702624579.073;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624639.074; last cache update = 1702624639.075;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624639.250; last cache update = 1702624639.250;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624639.251; last cache update = 1702624639.251;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624639.252; last cache update = 1702624639.253;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624639.253; last cache update = 1702624639.254;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624639.256; last cache update = 1702624639.256;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624639.258; last cache update = 1702624639.258;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624639.265; last cache update = 1702624639.265;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624639.266; last cache update = 1702624639.266;
+Dec 15 12:47:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624639.269; last cache update = 1702624639.269;
+Dec 15 12:48:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624699.072; last cache update = 1702624699.073;
+Dec 15 12:49:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624759.072; last cache update = 1702624759.072;
+Dec 15 12:49:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624759.166; last cache update = 1702624759.167;
+Dec 15 12:49:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624759.245; last cache update = 1702624759.245;
+Dec 15 12:49:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624759.250; last cache update = 1702624759.250;
+Dec 15 12:49:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624759.253; last cache update = 1702624759.253;
+Dec 15 12:49:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624759.255; last cache update = 1702624759.255;
+Dec 15 12:50:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624819.276; last cache update = 1702624819.277;
+Dec 15 12:50:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624819.278; last cache update = 1702624819.278;
+Dec 15 12:50:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624819.284; last cache update = 1702624819.284;
+Dec 15 12:50:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624819.284; last cache update = 1702624819.284;
+Dec 15 12:50:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624819.287; last cache update = 1702624819.287;
+Dec 15 12:50:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624819.295; last cache update = 1702624819.295;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624879.075; last cache update = 1702624879.075;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624879.166; last cache update = 1702624879.166;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624879.251; last cache update = 1702624879.251;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624879.251; last cache update = 1702624879.252;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624879.252; last cache update = 1702624879.252;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624879.262; last cache update = 1702624879.263;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624879.264; last cache update = 1702624879.265;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624879.268; last cache update = 1702624879.268;
+Dec 15 12:51:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624879.276; last cache update = 1702624879.276;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624939.070; last cache update = 1702624939.070;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624939.073; last cache update = 1702624939.073;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702624939.077; last cache update = 1702624939.077;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624939.274; last cache update = 1702624939.274;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624939.273; last cache update = 1702624939.274;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624939.274; last cache update = 1702624939.274;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624939.277; last cache update = 1702624939.277;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624939.286; last cache update = 1702624939.286;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624939.285; last cache update = 1702624939.287;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624939.290; last cache update = 1702624939.290;
+Dec 15 12:52:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624939.300; last cache update = 1702624939.300;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624999.253; last cache update = 1702624999.256;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624999.256; last cache update = 1702624999.257;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624999.257; last cache update = 1702624999.258;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702624999.266; last cache update = 1702624999.266;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702624999.268; last cache update = 1702624999.268;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624999.271; last cache update = 1702624999.271;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702624999.271; last cache update = 1702624999.274;
+Dec 15 12:53:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702624999.271; last cache update = 1702624999.279;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625059.067; last cache update = 1702625059.069;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625059.265; last cache update = 1702625059.265;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625059.265; last cache update = 1702625059.265;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625059.265; last cache update = 1702625059.266;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625059.267; last cache update = 1702625059.267;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625059.275; last cache update = 1702625059.275;
+Dec 15 12:54:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625059.288; last cache update = 1702625059.288;
+Dec 15 12:55:12 jumphost systemd[1]: Created slice User Slice of anurag_k_nobroker_in.
+Dec 15 12:55:12 jumphost systemd[1]: Starting User Manager for UID 1246749327...
+Dec 15 12:55:12 jumphost systemd[1]: Started Session 11680 of user anurag_k_nobroker_in.
+Dec 15 12:55:12 jumphost systemd[15887]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:55:12 jumphost systemd[15887]: Reached target Timers.
+Dec 15 12:55:12 jumphost systemd[15887]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:55:12 jumphost systemd[15887]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:55:12 jumphost systemd[15887]: Reached target Paths.
+Dec 15 12:55:12 jumphost systemd[15887]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:55:12 jumphost systemd[15887]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:55:12 jumphost systemd[15887]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:55:12 jumphost systemd[15887]: Reached target Sockets.
+Dec 15 12:55:12 jumphost systemd[15887]: Reached target Basic System.
+Dec 15 12:55:12 jumphost systemd[15887]: Reached target Default.
+Dec 15 12:55:12 jumphost systemd[15887]: Startup finished in 44ms.
+Dec 15 12:55:12 jumphost systemd[1]: Started User Manager for UID 1246749327.
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625119.067; last cache update = 1702625119.067;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625119.072; last cache update = 1702625119.072;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625119.076; last cache update = 1702625119.077;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625119.164; last cache update = 1702625119.164;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625119.250; last cache update = 1702625119.250;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625119.251; last cache update = 1702625119.254;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625119.254; last cache update = 1702625119.255;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625119.251; last cache update = 1702625119.261;
+Dec 15 12:55:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625119.266; last cache update = 1702625119.266;
+Dec 15 12:56:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625179.068; last cache update = 1702625179.069;
+Dec 15 12:56:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625179.071; last cache update = 1702625179.072;
+Dec 15 12:56:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625179.072; last cache update = 1702625179.072;
+Dec 15 12:56:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625179.280; last cache update = 1702625179.282;
+Dec 15 12:56:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625179.287; last cache update = 1702625179.288;
+Dec 15 12:56:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625179.297; last cache update = 1702625179.298;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625239.069; last cache update = 1702625239.070;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625239.069; last cache update = 1702625239.071;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625239.071; last cache update = 1702625239.072;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625239.073; last cache update = 1702625239.074;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625239.074; last cache update = 1702625239.075;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625239.075; last cache update = 1702625239.075;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625239.253; last cache update = 1702625239.254;
+Dec 15 12:57:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625239.298; last cache update = 1702625239.298;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625299.074; last cache update = 1702625299.074;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625299.266; last cache update = 1702625299.268;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625299.268; last cache update = 1702625299.271;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625299.270; last cache update = 1702625299.271;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625299.270; last cache update = 1702625299.271;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625299.272; last cache update = 1702625299.273;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625299.275; last cache update = 1702625299.275;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625299.279; last cache update = 1702625299.280;
+Dec 15 12:58:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625299.300; last cache update = 1702625299.301;
+Dec 15 12:58:31 jumphost systemd[1]: Created slice User Slice of kavis_pandey_nobroker_in.
+Dec 15 12:58:31 jumphost systemd[1]: Starting User Manager for UID 597512940...
+Dec 15 12:58:31 jumphost systemd[1]: Started Session 11682 of user kavis_pandey_nobroker_in.
+Dec 15 12:58:31 jumphost systemd[16184]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 12:58:31 jumphost systemd[16184]: Reached target Paths.
+Dec 15 12:58:31 jumphost systemd[16184]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 12:58:31 jumphost systemd[16184]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 12:58:31 jumphost systemd[16184]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 12:58:31 jumphost systemd[16184]: Listening on REST API socket for snapd user session agent.
+Dec 15 12:58:31 jumphost systemd[16184]: Reached target Timers.
+Dec 15 12:58:31 jumphost systemd[16184]: Listening on GnuPG network certificate management daemon.
+Dec 15 12:58:31 jumphost systemd[16184]: Reached target Sockets.
+Dec 15 12:58:31 jumphost systemd[16184]: Reached target Basic System.
+Dec 15 12:58:31 jumphost systemd[16184]: Reached target Default.
+Dec 15 12:58:31 jumphost systemd[16184]: Startup finished in 46ms.
+Dec 15 12:58:31 jumphost systemd[1]: Started User Manager for UID 597512940.
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625359.067; last cache update = 1702625359.067;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625359.068; last cache update = 1702625359.068;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625359.071; last cache update = 1702625359.071;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625359.073; last cache update = 1702625359.073;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625359.074; last cache update = 1702625359.074;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625359.165; last cache update = 1702625359.165;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625359.254; last cache update = 1702625359.254;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625359.256; last cache update = 1702625359.257;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625359.266; last cache update = 1702625359.267;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625359.269; last cache update = 1702625359.270;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625359.283; last cache update = 1702625359.283;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625359.285; last cache update = 1702625359.286;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625359.286; last cache update = 1702625359.286;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625359.286; last cache update = 1702625359.286;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625359.295; last cache update = 1702625359.296;
+Dec 15 12:59:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625359.295; last cache update = 1702625359.296;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625419.069; last cache update = 1702625419.069;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625419.069; last cache update = 1702625419.069;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625419.069; last cache update = 1702625419.069;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625419.071; last cache update = 1702625419.071;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625419.281; last cache update = 1702625419.282;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625419.306; last cache update = 1702625419.306;
+Dec 15 13:00:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625419.309; last cache update = 1702625419.309;
+Dec 15 13:01:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625479.079; last cache update = 1702625479.079;
+Dec 15 13:01:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625479.275; last cache update = 1702625479.275;
+Dec 15 13:01:28 jumphost systemd[1]: Created slice User Slice of nithin_kumar_nobroker_in.
+Dec 15 13:01:28 jumphost systemd[1]: Starting User Manager for UID 1271986103...
+Dec 15 13:01:28 jumphost systemd[1]: Started Session 11684 of user nithin_kumar_nobroker_in.
+Dec 15 13:01:28 jumphost systemd[16485]: Listening on GnuPG network certificate management daemon.
+Dec 15 13:01:28 jumphost systemd[16485]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 13:01:28 jumphost systemd[16485]: Listening on REST API socket for snapd user session agent.
+Dec 15 13:01:28 jumphost systemd[16485]: Reached target Paths.
+Dec 15 13:01:28 jumphost systemd[16485]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 13:01:28 jumphost systemd[16485]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 13:01:28 jumphost systemd[16485]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 13:01:28 jumphost systemd[16485]: Reached target Sockets.
+Dec 15 13:01:28 jumphost systemd[16485]: Reached target Timers.
+Dec 15 13:01:28 jumphost systemd[16485]: Reached target Basic System.
+Dec 15 13:01:28 jumphost systemd[16485]: Reached target Default.
+Dec 15 13:01:28 jumphost systemd[16485]: Startup finished in 60ms.
+Dec 15 13:01:28 jumphost systemd[1]: Started User Manager for UID 1271986103.
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625539.069; last cache update = 1702625539.069;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625539.280; last cache update = 1702625539.280;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625539.289; last cache update = 1702625539.291;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625539.297; last cache update = 1702625539.298;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625539.298; last cache update = 1702625539.298;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625539.298; last cache update = 1702625539.298;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625539.301; last cache update = 1702625539.302;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625539.302; last cache update = 1702625539.302;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625539.302; last cache update = 1702625539.302;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625539.304; last cache update = 1702625539.304;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625539.311; last cache update = 1702625539.311;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625539.313; last cache update = 1702625539.314;
+Dec 15 13:02:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625539.313; last cache update = 1702625539.314;
+Dec 15 13:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625599.073; last cache update = 1702625599.073;
+Dec 15 13:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625599.250; last cache update = 1702625599.250;
+Dec 15 13:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625599.258; last cache update = 1702625599.258;
+Dec 15 13:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625599.266; last cache update = 1702625599.267;
+Dec 15 13:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625599.268; last cache update = 1702625599.268;
+Dec 15 13:03:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625599.268; last cache update = 1702625599.271;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625659.071; last cache update = 1702625659.071;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625659.077; last cache update = 1702625659.077;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625659.280; last cache update = 1702625659.280;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625659.283; last cache update = 1702625659.283;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625659.285; last cache update = 1702625659.285;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625659.285; last cache update = 1702625659.285;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625659.293; last cache update = 1702625659.293;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625659.294; last cache update = 1702625659.294;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625659.293; last cache update = 1702625659.294;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625659.295; last cache update = 1702625659.296;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625659.296; last cache update = 1702625659.296;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625659.296; last cache update = 1702625659.296;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625659.296; last cache update = 1702625659.297;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625659.297; last cache update = 1702625659.297;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625659.299; last cache update = 1702625659.299;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625659.299; last cache update = 1702625659.299;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625659.299; last cache update = 1702625659.300;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625659.301; last cache update = 1702625659.301;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625659.301; last cache update = 1702625659.301;
+Dec 15 13:04:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625659.300; last cache update = 1702625659.302;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625719.072; last cache update = 1702625719.072;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625719.072; last cache update = 1702625719.072;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625719.072; last cache update = 1702625719.072;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625719.074; last cache update = 1702625719.074;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625719.256; last cache update = 1702625719.258;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625719.258; last cache update = 1702625719.261;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625719.263; last cache update = 1702625719.264;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625719.266; last cache update = 1702625719.266;
+Dec 15 13:05:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625719.266; last cache update = 1702625719.266;
+Dec 15 13:05:19 jumphost collectd[1754]: write_gcm: Asking metadata server for auth token
+Dec 15 13:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625779.073; last cache update = 1702625779.075;
+Dec 15 13:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625779.286; last cache update = 1702625779.286;
+Dec 15 13:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625779.286; last cache update = 1702625779.286;
+Dec 15 13:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625779.292; last cache update = 1702625779.294;
+Dec 15 13:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625779.292; last cache update = 1702625779.294;
+Dec 15 13:06:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625779.309; last cache update = 1702625779.309;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702625839.074; last cache update = 1702625839.075;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625839.263; last cache update = 1702625839.264;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625839.292; last cache update = 1702625839.292;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625839.299; last cache update = 1702625839.299;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625839.299; last cache update = 1702625839.299;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702625839.300; last cache update = 1702625839.302;
+Dec 15 13:07:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625839.306; last cache update = 1702625839.308;
+Dec 15 13:08:14 jumphost systemd[1]: Created slice User Slice of lucky_raja_nobroker_in.
+Dec 15 13:08:14 jumphost systemd[1]: Starting User Manager for UID 1664588435...
+Dec 15 13:08:14 jumphost systemd[1]: Started Session 11686 of user lucky_raja_nobroker_in.
+Dec 15 13:08:14 jumphost systemd[16931]: Listening on REST API socket for snapd user session agent.
+Dec 15 13:08:14 jumphost systemd[16931]: Reached target Paths.
+Dec 15 13:08:14 jumphost systemd[16931]: Listening on GnuPG network certificate management daemon.
+Dec 15 13:08:14 jumphost systemd[16931]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 13:08:14 jumphost systemd[16931]: Reached target Timers.
+Dec 15 13:08:14 jumphost systemd[16931]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 13:08:14 jumphost systemd[16931]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 13:08:14 jumphost systemd[16931]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 13:08:14 jumphost systemd[16931]: Reached target Sockets.
+Dec 15 13:08:14 jumphost systemd[16931]: Reached target Basic System.
+Dec 15 13:08:14 jumphost systemd[16931]: Reached target Default.
+Dec 15 13:08:14 jumphost systemd[16931]: Startup finished in 55ms.
+Dec 15 13:08:14 jumphost systemd[1]: Started User Manager for UID 1664588435.
+Dec 15 13:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625899.267; last cache update = 1702625899.273;
+Dec 15 13:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625899.273; last cache update = 1702625899.274;
+Dec 15 13:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625899.278; last cache update = 1702625899.279;
+Dec 15 13:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702625899.289; last cache update = 1702625899.291;
+Dec 15 13:08:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702625899.305; last cache update = 1702625899.306;
+Dec 15 13:09:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702625959.285; last cache update = 1702625959.285;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_vm; value time = 1702626019.072; last cache update = 1702626019.072;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702626019.079; last cache update = 1702626019.079;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702626019.081; last cache update = 1702626019.081;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702626019.179; last cache update = 1702626019.181;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702626019.318; last cache update = 1702626019.319;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702626019.321; last cache update = 1702626019.321;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/disk_octets; value time = 1702626019.326; last cache update = 1702626019.326;
+Dec 15 13:10:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/io_octets; value time = 1702626019.327; last cache update = 1702626019.327;
+Dec 15 13:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702626079.070; last cache update = 1702626079.070;
+Dec 15 13:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_cputime; value time = 1702626079.071; last cache update = 1702626079.071;
+Dec 15 13:11:19 jumphost collectd[1754]: uc_update: Value too old: name = jumphost/processes-all/ps_rss; value time = 1702626079.169; last cache update = 1702626079.169;
+Dec 15 13:11:26 jumphost systemd[1]: Created slice User Slice of vicknesh_r_nobroker_in.
+Dec 15 13:11:26 jumphost systemd[1]: Starting User Manager for UID 383775119...
+Dec 15 13:11:26 jumphost systemd[1]: Started Session 11688 of user vicknesh_r_nobroker_in.
+Dec 15 13:11:26 jumphost systemd[17222]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec 15 13:11:26 jumphost systemd[17222]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 15 13:11:26 jumphost systemd[17222]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec 15 13:11:26 jumphost systemd[17222]: Reached target Paths.
+Dec 15 13:11:26 jumphost systemd[17222]: Listening on REST API socket for snapd user session agent.
+Dec 15 13:11:26 jumphost systemd[17222]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 15 13:11:26 jumphost systemd[17222]: Listening on GnuPG network certificate management daemon.
+Dec 15 13:11:26 jumphost systemd[17222]: Reached target Sockets.
+Dec 15 13:11:26 jumphost systemd[17222]: Reached target Timers.
+Dec 15 13:11:26 jumphost systemd[17222]: Reached target Basic System.
+Dec 15 13:11:26 jumphost systemd[17222]: Reached target Default.
+Dec 15 13:11:26 jumphost systemd[17222]: Startup finished in 41ms.
+Dec 15 13:11:26 jumphost systemd[1]: Started User Manager for UID 383775119
